@@ -2,7 +2,7 @@
 
 Warp Drive simulation.
 
-You need Processing installed to run this.
+You need Processing 3 installed to run this.
 
 Horizontal mouse position controls travel speed.
 
